@@ -1,0 +1,17 @@
+{
+    "name": "chengezai\/ptools",
+    "description": "鎴戠殑涓€涓紑鍙戝伐",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dest",
+            "email": "czy_2020@126.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chengezai\\PTools\\": "src"
+        }
+    }
+}
